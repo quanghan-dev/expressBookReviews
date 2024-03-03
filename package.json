@@ -1,0 +1,20 @@
+{
+  "name": "expressbookreviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/quanghan-dev/expressBookReviews.git"
+  },
+  "author": "Han Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quanghan-dev/expressBookReviews/issues"
+  },
+  "homepage": "https://github.com/quanghan-dev/expressBookReviews#readme"
+}
